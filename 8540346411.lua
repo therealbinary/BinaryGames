@@ -1,1 +1,3 @@
-print('ok')
+getgenv().EggOverwrites = {
+  ["example"] = "examplevalue"
+}
